@@ -1,5 +1,6 @@
 
 import { GameObjectArray } from "../Engine";
+import * as THREE from 'three';
 
 export class Renderer{
     private canvas: HTMLCanvasElement;
